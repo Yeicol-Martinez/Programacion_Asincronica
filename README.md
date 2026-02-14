@@ -414,4 +414,5 @@ Documentación: https://jsonplaceholder.typicode.com/guide/
 
 **Desarrollado con ❤️ usando C# y .NET 8**  
 **Versión adaptada para JSONPlaceholder API**
+
 **Yeicol Martinez**
